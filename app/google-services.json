@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "362631833383",
+    "firebase_url": "https://nghiepnguyen.firebaseio.com",
+    "project_id": "project-269217694138829105",
+    "storage_bucket": "project-269217694138829105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362631833383:android:841811112300915e",
+        "android_client_info": {
+          "package_name": "com.nghiepnguyen.newsrsszapier2firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362631833383-gcl64v22lf4rgf7dugln0ssel238p7mb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nghiepnguyen.newsrsszapier2firebase",
+            "certificate_hash": "f8ec978af5504276b73898d08583a5ee8b683523"
+          }
+        },
+        {
+          "client_id": "362631833383-lbo3hheaacvrnnup5klttblhraipdmft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTCnq4Q0MxyyOEyBRlaTVP9m6tHXy3kro"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362631833383-lbo3hheaacvrnnup5klttblhraipdmft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
